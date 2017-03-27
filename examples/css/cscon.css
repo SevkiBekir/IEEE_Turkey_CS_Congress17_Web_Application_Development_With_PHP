@@ -1,0 +1,23 @@
+body {
+    background-color: aliceblue;
+}
+
+.tableFirstColumn{
+    width: 100px;
+}
+
+#mytable table{
+    width:400px;
+}
+
+#text p {
+    font-size: 0.875em;
+}
+
+.marginEx {
+    margin-top: 30px;
+}
+
+.paddingEx {
+    padding-left: 30px;
+}

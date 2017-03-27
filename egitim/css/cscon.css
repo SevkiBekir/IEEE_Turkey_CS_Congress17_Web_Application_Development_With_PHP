@@ -1,0 +1,32 @@
+a{
+    color:red;
+    background-color: black;
+}
+a:hover{
+    color:yellow;
+    background-color: black;
+}
+
+h1{
+    color:red;
+}
+h1.baslikClass{
+    color:yellow;
+}
+
+img.img1{
+    width: 60%;
+    height: 200px;
+}
+
+.img2{
+    width: 30%;
+    height: 30%;
+}
+
+table{
+    width: 100%;
+}
+#columnWidth {
+    width: 25%;
+}
